@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-| #   | Title                                                                 | Solutions (Java)                                                                 | Acceptance Rate | Difficulty |
+| #   | Title                                                                 | Solutions                                                                 | Acceptance Rate | Difficulty |
 |-----|-----------------------------------------------------------------------|----------------------------------------------------------------------------------|-----------------|------------|
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                    | [Java](https://www.example.com/demo/two-sum)                                    | 53.9%           | Easy       |
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)    | [Java](https://www.example.com/demo/add-two-numbers)                            | 44.2%           | Medium     |
