@@ -103,4 +103,3 @@
 | 99  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](https://www.example.com/demo/construct-binary-tree-from-preorder-and-inorder-traversal) | 62.8% | Medium |
 | 100 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](https://www.example.com/demo/maximum-depth-of-binary-tree)          | 67.0%           | Easy       |
 
-You can replace the example links with your actual GitHub links once you have implemented the solutions. Let me know if you need any more adjustments!
