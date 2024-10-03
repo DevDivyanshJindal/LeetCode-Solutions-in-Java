@@ -18,7 +18,7 @@ This repository contains solutions to various LeetCode problems organized by pro
 | Problem Number | Problem Title | Solutions | Acceptance Rate | Difficulty |
 |----------------|---------------|-----------|------------------|------------|
 | [1](solutions/1_Two_Sum) | Two Sum | [Java](solutions/1_Two_Sum/TwoSum.java) | 53.9% | Easy |
-| [2](solutions/2_Add_Two_Numbers) | Add Two Numbers | [Java](solutions/2_Add_Two_Numbers/AddTwoNumbers.java) | 44.2% | Medium |
+| [2](solutions/2_Add_Two_Numbers) | Add Two Numbers | [Java](https://github.com/DevDivyanshJindal/LeetCode-Solutions-in-Java/blob/main/solutions/2_Add%20_Two%20_Numbers) | 44.2% | Medium |
 | [3](solutions/3_Longest_Substring_Without_Repeating_Characters) | Longest Substring Without Repeating Characters | [Java](solutions/3_Longest_Substring_Without_Repeating_Characters/LongestSubstring.java) | 35.5% | Medium |
 | [4](solutions/4_Median_of_Two_Sorted_Arrays) | Median of Two Sorted Arrays | [Java](solutions/4_Median_of_Two_Sorted_Arrays/MedianSortedArrays.java) | 41.6% | Hard |
 | [5](solutions/5_Longest_Palindromic_Substring) | Longest Palindromic Substring | [Java](solutions/5_Longest_Palindromic_Substring/LongestPalindromicSubstring.java) | 34.5% | Medium |
